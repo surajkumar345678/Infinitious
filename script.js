@@ -48,4 +48,13 @@ async function getPhotos() {
     }
 }
 
+// scroll function
+window.addEventListener('scroll',()=>{
+    if (window.innerHeight+window.scrollY>=document.body.offsetHeight-1000) {
+        getPhotos();
+    } else {
+        
+    }
+});
+
 getPhotos();
