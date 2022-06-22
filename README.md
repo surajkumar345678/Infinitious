@@ -7,3 +7,4 @@ When we get closer to the bottom, scroll bar jump up when the next network reque
 If we hover an image, it shows the description.<br>
 If we click on the image, it redirects you to the website, here you can see author of the image and can download that image if you want.<br>
 This website is also mobile responsive as well.<br>
+This website has a limit of 50 request per hour.
